@@ -7,6 +7,6 @@ GET: http://localhost:8081/api/users/<id пользователя>
 GET: http://localhost:8081/api/users (все пользователи)
 POST: http://localhost:8081/api/users
 {
-    "name": "Олег Харитонов",
+    "name": "Кирилл Харитонов",
     "email": "john@example.com"
 }
