@@ -3,7 +3,8 @@
 Используется СУБД H2 в серверном режиме
 
 Команды:
-GET: http://localhost:8081/api/users
+GET: http://localhost:8081/api/users/<id пользователя>
+GET: http://localhost:8081/api/users (все пользователи)
 POST: http://localhost:8081/api/users
 {
     "name": "Олег Харитонов",
